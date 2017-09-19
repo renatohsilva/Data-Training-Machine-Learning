@@ -1,0 +1,5 @@
+A Percentagem por sentença foi de 40,49
+A Percentagem por sentença igual a 100% foi de 39,16
+A Percentagem por alvo foi de 37,50
+A Percentagem por alvo maior que 50% foi de 37,07
+A Percentagem por alvo igual a 100% foi de 37,05
